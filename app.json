@@ -1,0 +1,12 @@
+{
+  "name": "boirlerplate",
+  "displayName": "boirlerplate",
+  "expo": {
+    "name": "boirlerplate",
+    "slug": "boirlerplate",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
